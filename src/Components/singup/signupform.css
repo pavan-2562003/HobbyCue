@@ -1,0 +1,27 @@
+body{
+    background-color: #F7F5F9;
+}
+
+.loginform{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-right: 20px;
+}
+.homeimag{
+    width: 80%;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hob{
+    color: #0096C8;
+}
+
+.pas{
+    color: #8064A2;
+}
+.side1{
+ 
+    padding: 90px;
+}

@@ -1,0 +1,27 @@
+.cartbtn{
+    border-color: #8064A2;
+    color: #8064A2;
+}
+.container{
+   padding-top: 60px;
+
+}
+.cartbtn:hover{
+    background-color:#8064A2;
+    border-color: #8064A2;
+    color: #fff;
+}
+
+.icon1{
+   color: #8064A2;
+}
+
+.icon2{
+  color: #77933C;
+}
+.icon3{
+    color: #C0504D;
+}
+.icon4{
+ color: #0096C8;
+}
